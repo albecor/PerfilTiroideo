@@ -1,5 +1,4 @@
-
-  Thyroid profile / Perfil Tiroideo
+﻿  Thyroid profile  / Perfíl tiroideo
 =========================================
 
 	Grupo de tratamiento de señales y telecomunicaciones GTST  
@@ -23,3 +22,5 @@ All the folders have a description to know what is inside.
   <img src="https://cdn-images-1.medium.com/max/2000/1*l4xICbIIYlz1OTymWCoUTw.jpeg" width="100" /> 
   <img src="http://blog.calat.com/wp-content/uploads/2013/05/jquery_logo.png" width="150"  />
 </p>
+
+
