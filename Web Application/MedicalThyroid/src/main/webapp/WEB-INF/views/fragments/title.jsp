@@ -1,1 +1,0 @@
-<title>Medical Lab</title>
